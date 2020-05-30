@@ -1,0 +1,5 @@
+name: test
+description: test-desc
+category: analytics
+logo: https://test.svg
+repository: owner/repo

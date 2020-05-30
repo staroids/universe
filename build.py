@@ -2,7 +2,7 @@ import os, sys
 import yaml
 import re
 
-categories = ["analytics", "business", "others"]
+categories = ["analytics", "developer", "business", "others"]
 packageFileName = "package.yaml"
 
 def errorExit(msg):
@@ -43,6 +43,6 @@ loadRegistry('production')
 loadRegistry('enterprise')
 
 with open("packages.yaml", "w") as outfile:
-  yaml.dump(allPackages, outfile, default_flow_style=False)
+  yaml.dump(list(allPackages.values()), outfile, default_flow_style=False)
 
 print(str(len(allPackages)) + " packages loaded")
