@@ -1,0 +1,5 @@
+name:            # Name of the project to be displayed.
+description:     # A short description.
+category:        # one of 'analytics', 'business', 'others'.
+logo:            # path to the logo file (http url to png, jpg file)
+repository:      # full name of the github repository "<owner>/<repo>".
