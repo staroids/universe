@@ -12,14 +12,15 @@ This repo is the source for projects listed in [StarStore](https://staroid.com/s
 
 StarStore provides 3 class of registries depending on the maturity of the project as a service.
 
-- Enterprise
-- Production
 - Incubator
+- Production
+- Enterprise
  
 ## Review criteria
 
-We'd like to build a consistent expectation on projects in each class.
+It sounds a lot. But don't worry. We're here to help you go through the review. Don't hesitate to make a pull request and ask review.
 
+We'd like to build a consistent expectation on projects in each class. We believe these review criteria help your user to have more confidence in your project. For personal use or  professional use, as well as for mission-critical work.
 
 ### Incubator
 
@@ -40,8 +41,10 @@ We'd like to build a consistent expectation on projects in each class.
 
 ### Production
 
- - Automatic recovery
-   - Able to recover automatically from container crash/migration.
+ - Availability
+   - Shows 99.95% availability with more than 7200 hours of total instance run time for last 30 days in incubation.
+ - Fault tolerance
+   - Able to recover automatically from container crash/vm migration.
  - Automatic upgrade
    - The project should upgrade to the new version without human intervention.
  - Backup
