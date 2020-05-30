@@ -6,7 +6,7 @@ on:
     - master
 
 jobs:
-  docs:
+  build:
     runs-on: ubuntu-latest
     steps:
     - name: checkout master
@@ -28,7 +28,7 @@ jobs:
         path: gh-pages
     - name: Commit documentation changes
       run: |
-          cp -r _build/* gh-pages/
+          cp -f packages.yaml gh-pages/
           cd gh-pages
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
