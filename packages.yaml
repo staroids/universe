@@ -1,1 +1,24 @@
-{}
+- category: analytics
+  class: incubator
+  description: Data science notebook with Apache Spark integration
+  logo: https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png
+  name: zeppelin
+  repository: open-datastudio/zeppelin
+- category: developer
+  class: incubator
+  description: Visual Studio Code
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png
+  name: vscode
+  repository: staroider/vscode
+- category: analytics
+  class: incubator
+  description: Data science notebook
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png
+  name: jupyter
+  repository: open-datastudio/jupyter
+- category: analytics
+  class: incubator
+  description: test-desc
+  logo: https://test.svg
+  name: test
+  repository: owner/repo
