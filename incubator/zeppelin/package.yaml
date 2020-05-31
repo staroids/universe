@@ -1,0 +1,5 @@
+name: zeppelin
+description: Data science notebook with Apache Spark integration
+category: analytics
+logo: https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png
+repository: open-datastudio/zeppelin

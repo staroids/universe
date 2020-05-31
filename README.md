@@ -62,11 +62,11 @@ We'd like to build a consistent expectation on projects in each class. We believ
 ## Add your project
 
 1. Make sure your project runs on Staroid platform by creating [staroid.yaml](https://docs.staroid.com/references/staroid_yaml.html).
-2. Set project access to 'public' in the release tab.
+2. Set 'Launch permission' to 'Public' in the release tab.
 3. Fork this repository and write [package.yaml](https://github.com/staroids/starstore/blob/master/package.yaml_template) in `/incubator/<your project name>` directory.
 
 4. Make a pull request.
 
 ## Request class change
 
-Create move your project package.yaml to production or to enterprise and create a pull request.
+Move your project package.yaml to 'production' or 'enterprise' directory and create a pull request.
