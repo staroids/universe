@@ -4,13 +4,13 @@
 </p>
 <br />
 
-# ⭐️ StarStore
+# ⭐️ Universe
 
-This repo is the source for projects listed in [StarStore](https://staroid.com/site/store). StarStore is a project registry in [Staroid](https://staroid.com), a Cloud platform for open-source projects that [funds its developers](https://staroid.com/site/starrank).
+This repo is the source for projects listed in Staroid [Universe](https://staroid.com/universe). Staroid Universe is a project registry in [Staroid](https://staroid.com), a Cloud platform for open-source projects that [funds its developers](https://staroid.com/site/starrank).
 
 ## Registries
 
-StarStore provides 3 class of registries depending on the maturity of the project as a service.
+Universe provides 3 class of registries depending on the maturity of the project as a service.
 
 - Incubator
 - Production
@@ -63,7 +63,7 @@ We'd like to build a consistent expectation on projects in each class. We believ
 
 1. Make sure your project runs on Staroid platform by creating [staroid.yaml](https://docs.staroid.com/references/staroid_yaml.html).
 2. Set 'Launch permission' to 'Public' in the release tab.
-3. Fork this repository and write [package.yaml](https://github.com/staroids/starstore/blob/master/package.yaml_template) in `/incubator/<your project name>` directory.
+3. Fork this repository and write [package.yaml](https://github.com/staroids/universe/blob/master/package.yaml_template) in `/incubator/<your project name>` directory.
 
 4. Make a pull request.
 
