@@ -1,0 +1,5 @@
+name: hive-metastore
+description: Hive metastore
+category: analytics
+logo: https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg
+repository: open-datastudio/hive-metastore

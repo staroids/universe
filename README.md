@@ -36,7 +36,7 @@ We'd like to build a consistent expectation on projects in each class. We believ
  - Privacy
    - The project should handle user data securely.
    - The project shouldn't collect unnecessary data from user.
-  - Cost optimization
+ - Cost optimization
    - The project should use a minimum amount of resources to complete its designed task.
 
 ### Production
