@@ -1,0 +1,5 @@
+name: mlflow-model-serving
+description: MLflow model serving
+category: analytics
+logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
+repository: open-datastudio/mlflow-model-serving
