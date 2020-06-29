@@ -1,0 +1,5 @@
+name: mlflow-server
+description: Platform for managing the end-to-end machine learning lifecycle
+category: analytics
+logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
+repository: open-datastudio/mlflow-server
