@@ -36,6 +36,12 @@
   repository: owner/repo
 - category: analytics
   class: incubator
+  description: MLflow model serving
+  logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
+  name: mlflow-model-serving
+  repository: open-datastudio/mlflow-model-serving
+- category: analytics
+  class: incubator
   description: Data science notebook with Apache Spark integration
   logo: https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png
   name: zeppelin
