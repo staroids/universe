@@ -46,3 +46,9 @@
   logo: https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png
   name: zeppelin
   repository: open-datastudio/zeppelin
+- category: others
+  class: enterprise
+  description: Create an empty namespace
+  logo: https://raw.githubusercontent.com/staroids/community/master/logo/staroid_logo_short.svg
+  name: namespace
+  repository: staroids/namespace
