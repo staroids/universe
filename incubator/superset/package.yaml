@@ -1,5 +1,5 @@
 name: superset
 description: A modern, enterprise-ready business intelligence web application
 category: analytics
-logo: https://superset.incubator.apache.org/_images/s.png
+logo: https://github.com/apache/incubator-superset/raw/0.38/superset-frontend/images/s.png
 repository: open-datastudio/superset
