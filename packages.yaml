@@ -1,9 +1,9 @@
 - category: analytics
   class: incubator
-  description: Platform for managing the end-to-end machine learning lifecycle
-  logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
-  name: mlflow-server
-  repository: open-datastudio/mlflow-server
+  description: test-desc
+  logo: https://test.svg
+  name: test
+  repository: owner/repo
 - category: analytics
   class: incubator
   description: Hive metastore
@@ -12,10 +12,16 @@
   repository: open-datastudio/hive-metastore
 - category: analytics
   class: incubator
-  description: Data science notebook
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png
-  name: jupyter
-  repository: open-datastudio/jupyter
+  description: A modern, enterprise-ready business intelligence web application
+  logo: https://github.com/apache/incubator-superset/raw/0.38/superset-frontend/images/s.png
+  name: superset
+  repository: open-datastudio/superset
+- category: analytics
+  class: incubator
+  description: MLflow model serving
+  logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
+  name: mlflow-model-serving
+  repository: open-datastudio/mlflow-model-serving
 - category: developer
   class: incubator
   description: Visual Studio Code
@@ -24,22 +30,16 @@
   repository: staroider/vscode
 - category: analytics
   class: incubator
-  description: A modern, enterprise-ready business intelligence web application
-  logo: https://superset.incubator.apache.org/_images/s.png
-  name: superset
-  repository: open-datastudio/superset
+  description: Data science notebook
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png
+  name: jupyter
+  repository: open-datastudio/jupyter
 - category: analytics
   class: incubator
-  description: test-desc
-  logo: https://test.svg
-  name: test
-  repository: owner/repo
-- category: analytics
-  class: incubator
-  description: MLflow model serving
+  description: Platform for managing the end-to-end machine learning lifecycle
   logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
-  name: mlflow-model-serving
-  repository: open-datastudio/mlflow-model-serving
+  name: mlflow-server
+  repository: open-datastudio/mlflow-server
 - category: analytics
   class: incubator
   description: Data science notebook with Apache Spark integration
