@@ -1,0 +1,5 @@
+name: cloud9           
+description: Cloud9 IDE
+category: developer
+logo: https://upload.wikimedia.org/wikipedia/commons/5/5f/Cloud9IDE.png 
+repository: sr229/c9-staroid
