@@ -16,6 +16,12 @@
   logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
   name: mlflow-server
   repository: open-datastudio/mlflow-server
+- category: developer
+  class: incubator
+  description: Cloud9 IDE
+  logo: https://upload.wikimedia.org/wikipedia/commons/5/5f/Cloud9IDE.png
+  name: cloud9
+  repository: sr229/c9-staroid
 - category: analytics
   class: incubator
   description: GPU-powered Data science notebook
