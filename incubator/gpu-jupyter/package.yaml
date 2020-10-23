@@ -1,5 +1,5 @@
 name: gpu-jupyter
 description: GPU-powered Data science notebook
 category: analytics
-logo: https://raw.githubusercontent.com/iot-salzburg/gpu-jupyter/master/src/logo_gupyter.png
+logo: https://raw.githubusercontent.com/iot-salzburg/gpu-jupyter/master/extra/logo_gupyter.png
 repository: iot-salzburg/gpu-jupyter
