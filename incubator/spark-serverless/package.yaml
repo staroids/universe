@@ -1,0 +1,5 @@
+name: Spark
+description: Spark serverless
+category: analytics
+logo: https://spark.apache.org/docs/latest/api/python/_static/spark-logo-hd.png
+repository: open-datastudio/spark-serverless
