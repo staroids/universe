@@ -1,27 +1,3 @@
-- category: analytics
-  class: incubator
-  description: A modern, enterprise-ready business intelligence web application
-  logo: https://github.com/apache/incubator-superset/raw/0.38/superset-frontend/images/s.png
-  name: superset
-  repository: open-datastudio/superset
-- category: analytics
-  class: incubator
-  description: test-desc
-  logo: https://test.svg
-  name: test
-  repository: owner/repo
-- category: analytics
-  class: incubator
-  description: Platform for managing the end-to-end machine learning lifecycle
-  logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
-  name: mlflow-server
-  repository: open-datastudio/mlflow-server
-- category: analytics
-  class: incubator
-  description: Fully hosted, serverless Apache Spark cluster on the cloud
-  logo: https://spark.apache.org/docs/latest/api/python/_static/spark-logo-hd.png
-  name: Spark
-  repository: open-datastudio/spark-serverless
 - category: developer
   class: incubator
   description: Cloud9 IDE
@@ -30,28 +6,16 @@
   repository: sr229/c9-staroid
 - category: analytics
   class: incubator
-  description: GPU-powered Data science notebook
-  logo: https://raw.githubusercontent.com/iot-salzburg/gpu-jupyter/master/extra/logo_gupyter.png
-  name: gpu-jupyter
-  repository: iot-salzburg/gpu-jupyter
-- category: analytics
-  class: incubator
-  description: Data science notebook with Apache Spark integration
-  logo: https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png
-  name: zeppelin
-  repository: open-datastudio/zeppelin
+  description: A modern, enterprise-ready business intelligence web application
+  logo: https://github.com/apache/incubator-superset/raw/0.38/superset-frontend/images/s.png
+  name: superset
+  repository: open-datastudio/superset
 - category: analytics
   class: incubator
   description: MLflow model serving
   logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
   name: mlflow-model-serving
   repository: open-datastudio/mlflow-model-serving
-- category: developer
-  class: incubator
-  description: Visual Studio Code
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png
-  name: vscode
-  repository: staroider/vscode
 - category: analytics
   class: incubator
   description: Data science notebook
@@ -60,10 +24,46 @@
   repository: open-datastudio/jupyter
 - category: analytics
   class: incubator
+  description: Data science notebook with Apache Spark integration
+  logo: https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png
+  name: zeppelin
+  repository: open-datastudio/zeppelin
+- category: analytics
+  class: incubator
   description: Hive metastore
   logo: https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg
   name: hive-metastore
   repository: open-datastudio/hive-metastore
+- category: analytics
+  class: incubator
+  description: Fully hosted, serverless Apache Spark cluster on the cloud
+  logo: https://spark.apache.org/docs/latest/api/python/_static/spark-logo-hd.png
+  name: Spark serverless
+  repository: open-datastudio/spark-serverless
+- category: analytics
+  class: incubator
+  description: Platform for managing the end-to-end machine learning lifecycle
+  logo: https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png
+  name: mlflow-server
+  repository: open-datastudio/mlflow-server
+- category: analytics
+  class: incubator
+  description: test-desc
+  logo: https://test.svg
+  name: test
+  repository: owner/repo
+- category: analytics
+  class: incubator
+  description: GPU-powered Data science notebook
+  logo: https://raw.githubusercontent.com/iot-salzburg/gpu-jupyter/master/extra/logo_gupyter.png
+  name: gpu-jupyter
+  repository: iot-salzburg/gpu-jupyter
+- category: developer
+  class: incubator
+  description: Visual Studio Code
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png
+  name: vscode
+  repository: staroider/vscode
 - category: others
   class: enterprise
   description: Create an empty namespace
