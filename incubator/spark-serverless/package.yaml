@@ -1,4 +1,4 @@
-name: Spark
+name: Spark serverless
 description: Fully hosted, serverless Apache Spark cluster on the cloud
 category: analytics
 logo: https://spark.apache.org/docs/latest/api/python/_static/spark-logo-hd.png
