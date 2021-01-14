@@ -1,0 +1,5 @@
+name: Ray cluster
+description: Ray (ray.io) cluster with Jupyter notebook and Ray serve endpoint
+category: analytics
+logo: https://ray.io/wp-content/themes/ray/assets/images/ray-logo.svg
+repository: open-datastudio/ray-cluster
